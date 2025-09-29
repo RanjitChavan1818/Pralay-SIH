@@ -10,7 +10,6 @@ const Landing = () => {
         {/* Hero Section */}
         <div className="text-center space-y-6 animate-gentle-float">
           <div className="flex items-center justify-center space-x-3 mb-6">
-            <Waves className="h-12 w-12 text-white animate-ocean-wave" />
             <h1 className="text-4xl md:text-6xl font-bold text-white">
               Ocean Hazard
               <br />
