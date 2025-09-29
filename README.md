@@ -29,8 +29,8 @@ Pralay is a **web platform** designed to empower coastal communities and authori
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-org/pralay-frontend.git
-   cd pralay-frontend
+   git clone https://github.com/your-org/pralay-sih.git
+   cd pralay-sih
    ```
 
 2. **Install dependencies**  

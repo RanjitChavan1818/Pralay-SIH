@@ -15,5 +15,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: '/Pralay-Frontend/',
+  base: '/Pralay-SIH/',
 }));

@@ -28,7 +28,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename="/Pralay-SIH">
         <Routes>
           {/* Landing Page */}
           <Route path="/" element={<Landing />} />
